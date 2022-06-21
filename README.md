@@ -11,3 +11,5 @@ Code collection for coding test. Solve the [Baekjoon](https://www.acmicpc.net/) 
 - Prime: 2023
 - DP: 12969
 - Simulation: 14719
+- MST: 1197
+- Union-find: 1197
